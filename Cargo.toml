@@ -1,6 +1,6 @@
 [package]
 name = "cain_ls"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 license = "MIT"
 description = "A simple ls command implementation in Rust"
@@ -9,3 +9,4 @@ description = "A simple ls command implementation in Rust"
 
 [dependencies]
 colored = "2.1.0"
+chrono = "0.4.38"
